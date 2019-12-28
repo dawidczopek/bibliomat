@@ -1,0 +1,8 @@
+#Ignore folder name `wp-content` without `bibliomat`
+!wp-content/
+
+wp-content/*
+!wp-content/plugins/
+
+wp-content/plugins/*
+!wp-content/plugins/bibliomat/
